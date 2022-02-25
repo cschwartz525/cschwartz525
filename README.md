@@ -1,10 +1,10 @@
 # :wave: Hey! I'm Craig
 
-<a href="https://craigschwartzweb.com/">
+<a href="https://craigschwartzweb.com/" target="_blank">
   💻 My Website
 </a>
 |
-<a href="https://www.linkedin.com/in/cschwartz525/">
+<a href="https://www.linkedin.com/in/cschwartz525/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="20" width="20" align="top"> LinkedIn
 </a>
 |
